@@ -7,5 +7,5 @@ Web development has always captivated me. Designing and developing interfaces th
 
 ### How can I help you? Contact me.
 
-[![portfolio](https://img.shields.io/badge/portfolio-kevinnicolasbq.com-2f4f4f)](link=https://kevinnicolasbq.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ffffff)](link=https://www.linkedin.com/in/kevinnicolasbq)
+[![portfolio](https://img.shields.io/badge/portfolio-eu.kevinquintino.com-2f4f4f)](link=https://eu.kevinquintino.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ffffff)](link=https://www.linkedin.com/in/euKevinQuintino)
