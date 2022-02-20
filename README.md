@@ -1,5 +1,5 @@
 ## hey there!
-### i'm kevin, I design *meaningful and memorable experiences*.
+### i'm kevin, I design **meaningful and memorable experiences**.
 
 ### how can i help you? contact me: @euKevinQuintino
 
